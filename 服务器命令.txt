@@ -1,0 +1,69 @@
+http://192.168.5.162:82/system/lockroom?room=0&join=0&startgame=0  开房间
+
+http://192.168.5.162:82/system/lockroom?room=1589&join=1&startgame=1  锁房间
+
+
+roomstatus {-lock {id1 id2 id3 }}
+
+roomstatus {-unlock {id1 id2 id3 }}
+
+roomstatus -lock  锁房间
+
+roomstatus -unlock 开房间
+
+lock 锁定指定房间，若不指定则锁定全部房间
+unlock 解锁指定房间，若不指定则解锁全部房间
+
+roomstatus -show 显示房间锁定状态
+
+
+showgamingdesk        查看成桌数
+room -show            查看房间人数
+room -stop -1589      关闭1589房间
+room -load            加载房间
+
+room -restart -1589
+
+
+lua dofile("./LuaHallServer/SignUpDouDiZhu/SignUpDouDiZhu.lua")
+
+lua dofile("hallserver.lua")
+
+logfilter -info off    关闭蓝色输出日志
+
+logfilter -debug off    关闭灰色输出日志
+
+lua dofile("hot.lua")
+lua FixUser(用户ID)
+
+
+start "C:\Program Files\Internet Explorer\iexplore.exe" "http://192.168.5.162:82/system/lockroom?room=2865&join=1&startgame=1"
+
+
+
+
+
+
+
+
+
+
+showgamingdesk        查看成桌数
+room -show           
+room -stop -1589      
+room -load            加载房间
+
+room -restart -1589
+
+
+
+
+showgamingdesk        查看成桌数
+room -show            查看房间人数
+room -stop -1589      关闭1589房间
+room -load            加载房间
+
+room -restart -1589
+
+
+

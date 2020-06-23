@@ -1,0 +1,5 @@
+系统日志：eventvwr.msc 
+组策略：gpedit.msc 
+远程桌面：mstsc
+本机用户和组：lusrmgr.msc
+本地安全策略 ：secpol.msc
