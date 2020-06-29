@@ -24,6 +24,7 @@ room -load            加载房间
 
 room -restart -1589
 
+httpproxy connect 网关重连
 
 lua dofile("./LuaHallServer/SignUpDouDiZhu/SignUpDouDiZhu.lua")
 
@@ -38,14 +39,6 @@ lua FixUser(用户ID)
 
 
 start "C:\Program Files\Internet Explorer\iexplore.exe" "http://192.168.5.162:82/system/lockroom?room=2865&join=1&startgame=1"
-
-
-
-
-
-
-
-
 
 
 showgamingdesk        查看成桌数
