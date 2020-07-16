@@ -1,0 +1,16 @@
+query -reset 0 10.28.78.107 60086
+query -reset 1 10.28.78.107 60087
+query -reset 2 10.28.78.107 60088
+query -reset 3 10.28.78.107 60089
+query -reset 4 10.28.78.109 60086
+query -reset 5 10.28.78.109 60087
+query -reset 6 10.28.78.109 60088
+query -reset 7 10.28.78.109 60089
+query -reset 8 10.28.78.111 60086
+query -reset 9 10.28.78.111 60087
+query -reset 10 10.28.78.111 60088
+query -reset 11 10.28.78.111 60089
+query -reset 12 10.28.78.117 60086
+query -reset 13 10.28.78.117 60087
+query -reset 14 10.28.78.117 60088
+query -reset 15 10.28.78.117 60089

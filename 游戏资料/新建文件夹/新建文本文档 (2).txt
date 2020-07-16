@@ -1,0 +1,18 @@
+    <QueryServers>
+        <QueryServer IP="10.28.78.117" Port="60088"/>
+        <QueryServer IP="10.28.78.105" Port="60088"/>
+        <QueryServer IP="10.28.78.111" Port="60088"/>
+        <QueryServer IP="10.28.78.109" Port="60088"/>
+        <QueryServer IP="10.28.78.116" Port="60088"/>
+        <QueryServer IP="10.28.78.107" Port="60088"/>
+        <QueryServer IP="10.28.78.108" Port="60088"/>
+        <QueryServer IP="10.28.78.103" Port="60088"/>
+        <QueryServer IP="10.28.78.115" Port="60088"/>
+        <QueryServer IP="10.28.78.101" Port="60088"/>
+        <QueryServer IP="10.28.78.106" Port="60088"/>
+        <QueryServer IP="10.28.78.102" Port="60088"/>
+        <QueryServer IP="10.28.78.110" Port="60088"/>
+        <QueryServer IP="10.28.78.114" Port="60088"/>
+        <QueryServer IP="10.28.78.113" Port="60088"/>
+        <QueryServer IP="10.28.78.112" Port="60088"/>
+    </QueryServers>
