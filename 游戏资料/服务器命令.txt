@@ -50,7 +50,7 @@ room -restart -1589
 
 
 
-
+httpproxy connect     重连网关命令
 showgamingdesk        查看成桌数
 room -show            查看房间人数
 room -stop -1589      关闭1589房间
