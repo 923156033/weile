@@ -30,9 +30,11 @@ lua dofile("./LuaHallServer/SignUpDouDiZhu/SignUpDouDiZhu.lua")
 
 lua dofile("hallserver.lua")
 
-logfilter -info off    关闭蓝色输出日志
+logfilter -info off/on    关闭/开启蓝色输出日志
 
-logfilter -debug off    关闭灰色输出日志
+logfilter -debug off/on    关闭/开启灰色输出日志
+
+logfilter -warning off     关闭/开启warning 日志
 
 lua dofile("hot.lua")
 lua FixUser(用户ID)
