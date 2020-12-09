@@ -4,11 +4,15 @@
 #@FIle : 负荷脚本.py
 #@Software: PyCharm
 import pandas as pd
+import xlsxwriter
+import datetime
+import time
 import numpy as np
 import re
 import os.path
 import os
-import
+import xlrd
+import xlwt
 #定义一个类，查询地区负荷，求出最大、最小、平均值、求和
 #def set(area):
 def chuli(diqu):
@@ -18,13 +22,22 @@ def chuli(diqu):
     min1=data1['负荷'].min()
     mean1=int(data1['负荷'].mean())
     sum1=data1['负荷'].sum()
-    print(max1,min1,mean1,sum1)
-print("---------求微乐反向代理地区最大值、最小值、平均值、总和-----------")
+#    worksheet.write_row(max1,min1,mean1)
+#     print(max1,min1,mean1,sum1)
+    return[max1,min1,mean1,sum1]
+# print("---------求微乐反向代理地区最大值、最小值、平均值、总和-----------")
+# area=["通用","四川_甘肃_宁夏_云南","陕西","山西_内蒙","山东","辽宁","江西_福建","江苏_安徽_浙江_上海","吉林","湖南","湖北","黑龙江","河南","河北_北京_天津","贵州","广东_广西_海南","高防" ]
+# data = pd.read_csv(r"E:\GitHub\weile\数据统计\导出数据\地区导出数据 (4).csv",encoding='utf-8')
+# for i in area:
+#     chuli(i)
+workbook = xlsxwriter.Workbook('E:\GitHub\weile\数据统计\kami1.xlsx')
+#worksheet = workbook.add_worksheet()
+#title = [U'最大值',U'最小值',U'平均值']
+#worksheet.write_row('A1',title)
 area=["通用","四川_甘肃_宁夏_云南","陕西","山西_内蒙","山东","辽宁","江西_福建","江苏_安徽_浙江_上海","吉林","湖南","湖北","黑龙江","河南","河北_北京_天津","贵州","广东_广西_海南","高防" ]
 data = pd.read_csv(r"E:\GitHub\weile\数据统计\导出数据\地区导出数据 (4).csv",encoding='utf-8')
 for i in area:
-    chuli(i)
-
+    print(chuli(i))
 # print("---------求微乐小程序大厅通用最大值、最小值、平均值、总和-----------")
 # data = pd.read_csv(r"E:\GitHub\weile\数据统计\导出数据\地区导出数据 (5).csv",encoding='utf-8')
 # for i in area:

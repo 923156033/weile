@@ -4,10 +4,7 @@
 #@FIle : 负荷脚本.py
 #@Software: PyCharm
 import pandas as pd
-import numpy as np
-import re
-import os.path
-import os
+
 
 #定义一个类，查询地区负荷，求出最大、最小、平均值、求和
 #def set(area):

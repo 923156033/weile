@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4cb5927-aae0-46fb-92ec-faa5e872b838" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../main.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vpn二维码" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../win_template+j2更改xml.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../报销/9月份报销-陈有梓.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-fh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/监控日负荷统计.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/统计负荷.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/负荷统计脚本-back.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/负荷统计脚本.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/负荷脚本.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../游戏资料/阿里cpu_total20201009-15(1).xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../游戏资料/阿里memory_usedutilization(2).xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/导出数据/地区导出数据 (1).csv" beforeDir="false" afterPath="$PROJECT_DIR$/导出数据/地区导出数据 (1).csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/导出数据/地区导出数据 (2).csv" beforeDir="false" afterPath="$PROJECT_DIR$/导出数据/地区导出数据 (2).csv" afterDir="false" />
@@ -22,6 +10,8 @@
       <change beforePath="$PROJECT_DIR$/导出数据/地区导出数据 (5).csv" beforeDir="false" afterPath="$PROJECT_DIR$/导出数据/地区导出数据 (5).csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/导出数据/地区导出数据.csv" beforeDir="false" afterPath="$PROJECT_DIR$/导出数据/地区导出数据.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/统计负荷模板.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/统计负荷模板.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/负荷统计脚本-back.py" beforeDir="false" afterPath="$PROJECT_DIR$/负荷统计脚本-back.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/负荷脚本.py" beforeDir="false" afterPath="$PROJECT_DIR$/负荷脚本.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,9 +20,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/$_back.coverage" NAME="负荷统计脚本-back Coverage Results" MODIFIED="1606710430247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$_back.coverage" NAME="负荷统计脚本-back Coverage Results" MODIFIED="1607428485257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$test_fh.coverage" NAME="test-fh Coverage Results" MODIFIED="1606532422851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$.coverage" NAME="负荷统计脚本 Coverage Results" MODIFIED="1606725822152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="负荷脚本 Coverage Results" MODIFIED="1607436397973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$dateexecl.coverage" NAME="date导入execl Coverage Results" MODIFIED="1606706451330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/导出数据" />
   </component>
   <component name="FileEditorManager">
@@ -40,8 +30,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/负荷脚本.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+            <state relative-caret-position="999">
+              <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/监控日负荷统计.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1782" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/负荷统计脚本-back.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding>
                 <element signature="e#104#123#0" expanded="true" />
               </folding>
@@ -49,13 +55,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/负荷统计脚本-back.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/负荷统计脚本.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+            <state relative-caret-position="1782">
+              <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
               <folding>
-                <element signature="e#104#123#0" expanded="true" />
+                <element signature="e#24#43#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,10 +90,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="809" />
-    <option name="y" value="21" />
-    <option name="width" value="1134" />
-    <option name="height" value="997" />
+    <option name="x" value="1060" />
+    <option name="y" value="12" />
+    <option name="width" value="895" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -147,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.负荷统计脚本">
+  <component name="RunManager" selected="Python.date导入execl">
     <configuration name="负荷统计脚本-back" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据统计" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,6 +190,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/负荷统计脚本.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="负荷脚本" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据统计" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/负荷脚本.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="负荷脚本" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据统计" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/负荷脚本.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,23 +383,27 @@
       <workItem from="1606705497317" duration="11224000" />
       <workItem from="1606788014720" duration="2700000" />
       <workItem from="1606798863078" duration="1197000" />
+      <workItem from="1607248946603" duration="4584000" />
+      <workItem from="1607332580398" duration="12650000" />
+      <workItem from="1607414376824" duration="8450000" />
+      <workItem from="1607504707488" duration="745000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63220000" />
+    <option name="totallyTimeSpent" value="89649000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15458423" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1609808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23618636" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39911798" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35427952" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -400,10 +454,27 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/导出数据/date导入execl.py" />
+    <entry file="file://$PROJECT_DIR$/../../python/demo/venv/Lib/site-packages/xlsxwriter/worksheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1512">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/负荷统计脚本-back.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="e#104#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/负荷统计脚本.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="107" column="29" lean-forward="true" selection-start-line="107" selection-start-column="29" selection-end-line="107" selection-end-column="29" />
+        <state relative-caret-position="1782">
+          <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
           <folding>
             <element signature="e#24#43#0" expanded="true" />
           </folding>
@@ -412,22 +483,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/负荷脚本.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-          <folding>
-            <element signature="e#104#123#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="999">
+          <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/负荷统计脚本-back.py">
+    <entry file="file://$PROJECT_DIR$/监控日负荷统计.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-          <folding>
-            <element signature="e#104#123#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-1782" />
       </provider>
     </entry>
   </component>
