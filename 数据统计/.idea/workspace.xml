@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4cb5927-aae0-46fb-92ec-faa5e872b838" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../7.26应急/726挂掉的服务器.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.26应急/全部游戏1595758975000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.26应急/地区导出数据 (1).csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.26应急/地区导出数据 (2).csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.26应急/地区导出数据.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../报销/9月份报销-陈有梓.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/导出数据/地区导出数据 (1).csv" beforeDir="false" afterPath="$PROJECT_DIR$/导出数据/地区导出数据 (1).csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/导出数据/地区导出数据 (2).csv" beforeDir="false" afterPath="$PROJECT_DIR$/导出数据/地区导出数据 (2).csv" afterDir="false" />
@@ -10,9 +17,6 @@
       <change beforePath="$PROJECT_DIR$/导出数据/地区导出数据 (5).csv" beforeDir="false" afterPath="$PROJECT_DIR$/导出数据/地区导出数据 (5).csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/导出数据/地区导出数据.csv" beforeDir="false" afterPath="$PROJECT_DIR$/导出数据/地区导出数据.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/统计负荷模板.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/统计负荷模板.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/负荷统计脚本-back.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/负荷脚本.py" beforeDir="false" afterPath="$PROJECT_DIR$/负荷脚本.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../游戏资料/阿里cpu_total20201009-15(1).xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../游戏资料/阿里cpu_total20201009-15(1).xlsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,18 +26,53 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/$_back.coverage" NAME="负荷统计脚本-back Coverage Results" MODIFIED="1608004679548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$execl.coverage" NAME="负荷统计脚本写入到execl Coverage Results" MODIFIED="1608099170769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$execl.coverage" NAME="负荷统计脚本写入到execl Coverage Results" MODIFIED="1608550431503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$test_fh.coverage" NAME="test-fh Coverage Results" MODIFIED="1606532422851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$.coverage" NAME="负荷脚本 Coverage Results" MODIFIED="1608087066080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$shopping.coverage" NAME="shopping Coverage Results" MODIFIED="1608732434202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../python/python教程" />
     <SUITE FILE_PATH="coverage/$dateexecl.coverage" NAME="date导入execl Coverage Results" MODIFIED="1606706451330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/导出数据" />
+    <SUITE FILE_PATH="coverage/$schoolwork_one.coverage" NAME="schoolwork-one Coverage Results" MODIFIED="1608554041397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../python/python教程" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../python/python教程/schoolwork-one.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="729">
+              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+              <folding>
+                <element signature="e#114#133#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../python/python教程/shopping.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/负荷统计脚本写入到execl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="124" column="18" lean-forward="true" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+              <folding>
+                <element signature="e#104#123#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../python/python教程/string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -61,14 +100,15 @@
         <option value="$PROJECT_DIR$/负荷脚本.py" />
         <option value="$PROJECT_DIR$/../../python/python教程/day-one.py" />
         <option value="$PROJECT_DIR$/../../python/python教程/schoolwork-one.py" />
+        <option value="$PROJECT_DIR$/../../python/python教程/shopping.py" />
+        <option value="$PROJECT_DIR$/../../python/python教程/string.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="247" />
-    <option name="y" value="66" />
-    <option name="width" value="1500" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1955" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -82,7 +122,16 @@
           <expand>
             <path>
               <item name="数据统计" type="b2602c69:ProjectViewProjectNode" />
+              <item name="数据统计" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="数据统计" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="数据统计" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="数据统计" type="b2602c69:ProjectViewProjectNode" />
@@ -100,6 +149,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../python" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -119,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.负荷统计脚本写入到execl">
+  <component name="RunManager" selected="Python.shopping">
     <configuration name="负荷统计脚本-back" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据统计" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -406,28 +456,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="date导入execl" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="数据统计" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/导出数据" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/导出数据/date导入execl.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="负荷统计脚本写入到execl" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据统计" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -450,12 +478,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="schoolwork-one" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../python/python教程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../python/python教程/schoolwork-one.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shopping" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../python/python教程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../python/python教程/shopping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.shopping" />
+        <item itemvalue="Python.schoolwork-one" />
         <item itemvalue="Python.负荷统计脚本写入到execl" />
         <item itemvalue="Python.负荷统计脚本" />
         <item itemvalue="Python.负荷统计脚本-back" />
-        <item itemvalue="Python.date导入execl" />
       </list>
     </recent_temporary>
   </component>
@@ -501,22 +574,27 @@
       <workItem from="1608099162030" duration="1206000" />
       <workItem from="1608273236976" duration="2578000" />
       <workItem from="1608276756832" duration="2652000" />
+      <workItem from="1608541029094" duration="9447000" />
+      <workItem from="1608639616664" duration="5977000" />
+      <workItem from="1608711171469" duration="11378000" />
+      <workItem from="1608900484170" duration="2417000" />
+      <workItem from="1608985538838" duration="1232000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130575000" />
+    <option name="totallyTimeSpent" value="161026000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1955" y="0" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18869936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19989339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.45287108" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34890965" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -593,13 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/负荷统计脚本写入到execl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/负荷脚本.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -610,8 +681,35 @@
     <entry file="file://$PROJECT_DIR$/../../python/python教程/day-one.py" />
     <entry file="file://$PROJECT_DIR$/../../python/python教程/schoolwork-one.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="729">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+          <folding>
+            <element signature="e#114#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../python/python教程/shopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../python/python教程/string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/负荷统计脚本写入到execl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="124" column="18" lean-forward="true" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+          <folding>
+            <element signature="e#104#123#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
